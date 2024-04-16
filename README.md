@@ -31,17 +31,12 @@ Make sure you have Node.js and npm installed on your machine.
    ```bash
    git clone https://github.com/nsdsahil/TodoApp.git
 
-2. Navigate to the project directory:
-
-   ```bash
-   cd TodoApp
-
-3. Install dependencies:
+2. Install dependencies:
 
    ```bash
    npm i 
 
-4. Start the development server:
+3. Start the development server:
 
    ```bash
    npm run dev 
